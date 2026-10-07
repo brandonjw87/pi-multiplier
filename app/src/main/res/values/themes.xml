@@ -1,0 +1,8 @@
+<resources>
+    <color name="pi_night">#FF120A24</color>
+    <color name="pi_purple">#FF3B1F78</color>
+    <style name="Theme.PiMultiplier" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/pi_night</item>
+        <item name="android:colorAccent">#FFFFC94A</item>
+    </style>
+</resources>
